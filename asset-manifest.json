@@ -5,17 +5,17 @@
     "main.js.map": "/stew/static/js/main.29966b99.chunk.js.map",
     "runtime-main.js": "/stew/static/js/runtime-main.e72a1adc.js",
     "runtime-main.js.map": "/stew/static/js/runtime-main.e72a1adc.js.map",
-    "static/js/2.5bbf4560.chunk.js": "/stew/static/js/2.5bbf4560.chunk.js",
-    "static/js/2.5bbf4560.chunk.js.map": "/stew/static/js/2.5bbf4560.chunk.js.map",
+    "static/js/2.6437b0a5.chunk.js": "/stew/static/js/2.6437b0a5.chunk.js",
+    "static/js/2.6437b0a5.chunk.js.map": "/stew/static/js/2.6437b0a5.chunk.js.map",
     "static/js/3.2e8e6400.chunk.js": "/stew/static/js/3.2e8e6400.chunk.js",
     "static/js/3.2e8e6400.chunk.js.map": "/stew/static/js/3.2e8e6400.chunk.js.map",
     "index.html": "/stew/index.html",
     "static/css/main.e45445bd.chunk.css.map": "/stew/static/css/main.e45445bd.chunk.css.map",
-    "static/js/2.5bbf4560.chunk.js.LICENSE.txt": "/stew/static/js/2.5bbf4560.chunk.js.LICENSE.txt"
+    "static/js/2.6437b0a5.chunk.js.LICENSE.txt": "/stew/static/js/2.6437b0a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e72a1adc.js",
-    "static/js/2.5bbf4560.chunk.js",
+    "static/js/2.6437b0a5.chunk.js",
     "static/css/main.e45445bd.chunk.css",
     "static/js/main.29966b99.chunk.js"
   ]
