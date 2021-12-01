@@ -64,7 +64,7 @@ class App extends React.Component {
   render() {
   return (
     <div>
-      {/* <Button onClick={ () => this.handleLoadMediaUrl()} variant="contained">Load Media URL</Button> */}
+      <Button onClick={ () => this.handleLoadMediaUrl()} variant="contained">Load Media URL</Button>
       <Button variant="contained" component="label">
         Load Media File
       <input
